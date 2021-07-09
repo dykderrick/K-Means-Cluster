@@ -1,5 +1,5 @@
 # Cluster
-BUPT Information Processing Coursework 3 - Using K Means and DBSCAN Algorithms to Cluster Iris Dataset
+Information Processing Coursework 3 - Using K Means and DBSCAN Algorithms to Cluster Iris Dataset
 ## Dataset
 [`Iris.csv`](dataset/Iris.csv) contains information about iris. Dataset collected by UCI.
 ## Usage
